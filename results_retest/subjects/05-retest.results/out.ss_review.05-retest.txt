@@ -1,0 +1,47 @@
+
+subject ID                : 05-retest
+AFNI version              : AFNI_18.2.19
+AFNI package              : linux_ubuntu_16_64
+TRs removed (per run)     : 2
+num stim classes provided : 3
+final anatomy dset        : anat_final.05-retest+tlrc.HEAD
+final stats dset          : stats.05-retest+tlrc.HEAD
+final voxel resolution    : 4.000000	4.000000	4.000000
+
+motion limit              : 0.5
+num TRs above mot limit   : 1
+average motion (per TR)   : 0.0774138
+average censored motion   : 0.072118
+max motion displacement   : 1.42587
+max censored displacement : 1.24841
+outlier limit             : 0.1
+average outlier frac (TR) : 0.0037828
+num TRs above out limit   : 2
+
+num runs found            : 1
+num TRs per run           : 182
+num TRs per run (applied) : 180
+num TRs per run (censored): 2
+fraction censored per run : 0.010989
+TRs total (uncensored)    : 182
+TRs total                 : 180
+degrees of freedom used   : 20
+degrees of freedom left   : 160
+
+TRs censored              : 2
+censor fraction           : 0.010989
+num regs of interest      : 3
+num TRs per stim (orig)   : 55 55 55
+num TRs censored per stim : 0 0 2
+fraction TRs censored     : 0.000 0.000 0.036
+ave mot per sresp (orig)  : 0.072974 0.066885 0.089387
+ave mot per sresp (cens)  : 0.072974 0.066885 0.071953
+
+TSNR average              : 266.699
+global correlation (GCOR) : 0.154191
+anat/EPI mask Dice coef   : 0.814768
+maximum F-stat (masked)   : 134.215
+blur estimates (ACF)      : 0.591124 5.32743 13.5861
+blur estimates (FWHM)     : 0 0 0
+
+
