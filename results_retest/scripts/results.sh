@@ -16,7 +16,7 @@ gen_ss_review_table.py -tablefile group_results/retest_qa.tsv -infiles subjects/
 -setA 'subjects/*-retest.results/stats.*-retest+tlrc.HEAD[Foot-Lips_GLT#0_Coef]'
 
 #average blur estimates
-scripts/average_blur.py subjects/*-test.results/blur.errts.1D
+scripts/average_blur.py subjects/*-retest.results/blur.errts.1D
 
 #Clustering
 3dClustSim \
